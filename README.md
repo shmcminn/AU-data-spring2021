@@ -1,4 +1,4 @@
-# COMM 618W: Data-Driven Journalism Spring 2020
+# COMM 618W: Data-Driven Journalism Spring 2021
 
 **Credits**: 3
 
@@ -19,7 +19,7 @@
 * Speak the language of reporters and technologists who use data to tell stories
 * Identify common problems with data and think critically about its use in news reporting
 
-Much of this class (and its syllabus) is based on [Rachel Shorey's Spring 2018 Digital Frameworks](https://github.com/rshorey/digitalframeworks-spring18) course at Northwestern University.
+Special thank you to [Rachel Shorey](https://github.com/rshorey/digitalframeworks-spring18) of The New York Times for contributions to this class and its syllabus.
 
 
 ### Expectations
@@ -30,13 +30,13 @@ Much of this class (and its syllabus) is based on [Rachel Shorey's Spring 2018 D
    * Late assignments will only be accepted if you contact me **before** the class in which it was originally due and we reach an agreement. 
 * Submit assignments on Github (instructions in first lecture) as specified in the assignment.
 * Consume the news every week, and come to class ready to share at least one story that uses data in a substantial way. I will randomly select two students to share a story at the beginning of class, so please have a link ready to go (and I will do the same). 
-* Complete a final project, which will be a 1,000- to 1,300-word story with graphic proposals, based substantially on data. 
+* Complete a final project, which will TKTK
 * I reserve the right to change this syllabus at any time, provided all changes are pushed to GitHub where you can track them in the "commits" section for this repository. If at any time you feel like a change I made isn't fair, you can tell me why and I'll reconsider it.
-* As for software, please make sure you have the following: 
+* Please make sure you have the following software:  
 	* Microsoft Excel
 	* Sublime text editor (free)
 	* Tableau Public (free)
-	* We might dabble in some other software as well, which we can download together. 
+	* We might dabble in some other free software as well, which we can download together. 
 * I will use email as the primary means of communicating with the class, making your use a required element. Please make sure you check your AU email daily.
 * All lectures/assignments/class materials will be available on Github.
 
@@ -58,14 +58,13 @@ Your grade will be made up of three components:
 * D: unpublishable, even with edits 
 * F: did not complete work as assigned
 
-**Note**: I will attempt to have all assignments graded within one week of you turning them in, and I will send you your assignment grades via email. Questions about assignments can be asked at any time. If you'd like to see your overall course grade, please talk to me during class and I'll show you a detailed breakdown.
-
+**Note**: I will attempt to have all assignments graded within one week of you turning them in, and I will send you your assignment grades via email. You can ask questions/for feedback about assignments or grades at any time. If you'd like to see your overall course grade, please talk to me during class and I'll show you a detailed breakdown.
 
 ### Collaboration
 
-Students are encouraged to discuss assignments. For the most part, you will be working on different things, so talking about your work should not be a problem. Whiteboarding your way through a sticky problem with a friend or looking online for answers to technical questions are encouraged (data journalists do that all the time!). Your final work, however, must be entirely your own. A good rule of thumb is that no one else should take over your keyboard while completing an assignment. All American University policies regarding cheating apply to this class.
+Students are encouraged to discuss assignments. Your final work, however, must be entirely your own. A good rule of thumb is that no one else should take over your keyboard while completing an assignment. All American University policies regarding cheating apply to this class.
 
-### A typical class
+### A typical class TKTK
 
 * 9a - 9:15a share data stories
 * 9:15a - 11a lecture
@@ -78,7 +77,7 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 
 ### Schedule
 
-**Class 1: Start here!/Finding data (Jan. 18)**
+**Class 1: Start here!/Story assignments (Jan. 23)**
 
 * Lecture
 	* [Assessment quiz](https://docs.google.com/forms/d/e/1FAIpQLSfRJ8BI0Zvxv2Nf40gQb1mm9vWssaoq-eWERm3IHHEdDBAphA/viewform?usp=sf_link)
@@ -93,77 +92,79 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 	* Introduce final project
 * Interactive lesson
 	*  Learn to use github
-* [Assignment 1](https://github.com/shmcminn/AU-data-spring2019/blob/master/class1/assignment1.md)
-	* Come up with two final project ideas, complete first data reporting critique on a published data story related to each topic
-*  Lecture
+* [Assignment 1] - _in class_
+	* Critique a local data story and present to the class
+	* Write one story pitch
+* Present the story you critiqued
+* Compile story pitches
+	* Everyone goes through and explains their pitches
+	* Class votes on pitches
+	* Assign students to pitches
+* [Assignment 2] - _in class_
+	* Compile relevant data
+	* Critique two related data-driven stories
+
+**Class 2: Finding data/Cleaning data (Jan. 30)**
+
+* Share data stories
+*   Lecture
 	* Government data
 	* Other data sources
 	* Data types
 	* Thinking critically about data
-* [Assignment 2](https://github.com/shmcminn/AU-data-spring2019/blob/master/class1/assignment2.md)
+* [Assignment 3](): 
 	* Compile own dataset
-
-**Class 2: Cleaning data/covering the federal government with data (Jan. 25)**
-
-* Share data stories
 * Lecture
 	* Cleaning overview
 * Interactive lesson
-	* Five cleaning activities done with partners
+	* Five cleaning activities
 	* Advanced cleaning techniques using Sublime Text and Excel
-* [Assignment 3](https://github.com/shmcminn/AU-data-spring2019/blob/master/class2/assignment3.md): 
+* [Assignment 4](): 
 	* Clean a messy dataset
-* Lecture
-	* Covering federal government with data
-* [Assignment 4](https://github.com/shmcminn/AU-data-spring2019/blob/master/class2/assignment4.md):
-	* Public records story
 
-
-**Class 3: Analyzing data/Stats for journalists (Feb. 15)**
+**Class 3: Analyzing data/Work on Stories (Feb. 6)**
 
 * Share data stories
 * Lecture
 	* Analyzing data
 * Interactive lesson
-* [Assignment 5](https://github.com/shmcminn/AU-data-spring2019/blob/master/class3/assignment5.md)
-	* Pitch a story
-* [Assignment 6](https://github.com/shmcminn/AU-data-spring2019/blob/master/class4/assignment6.md)
+* [Assignment 5]()
+* [Assignment 6]()
 	* 3 interesting questions to analyze a dataset
+* Work on final story
+
+*__No class on Feb. 13__*
+
+**Class 4: Data viz parts I + II**
+
+* Lecture
+	* Data viz I (best practices)
+* Lecture
+	* data viz II (tools)
+
+**Class 5: Statistics for journalists/Covering the federal government with data/What the hell is is an API? (Feb. 27)**
+
 * Lecture
 	* Stats for journalists
-* Assignment
-	* Work on final story
-
-**Class 4: Deconstructing stories (Feb. 1)**
-
-* Share data stories
-* 4x: Review a story, work in groups to recreate the data reporting
-
-**Class 5: Data visualization/Presenting and storytelling with data (Feb. 22)**
-
 * Lecture
-	* Data viz
+	* Covering the federal government with data
+* Lecture
+	* What the hell is an API?
 * Assignment
 	* Work on final project OR
 	* Extra credit data viz
-* Lecture
-	* Presenting and storytelling with data
-* Assignment
-	* Work on final project
 
-**Class 6: What the hell is an API, and other questions I was too afraid to ask / Final story interviews / Things smart people know more about than I do (Feb. 29)** 
+**Class 6: Story presentations/Deconstructing a story/Panel discussion (March 6)** 
 
-* Lecture
-	* What the Hell is an API
-* Interactive lesson
-	* Final story interviews
-* No in-class assignment
-* Lecture
-	* Panel: Things smart people know more about than I do
+* Story presentations
+* Interactive lecture
+	* Deconstructing a story
+* Panel: Things smart people know more about than I do
+
 
 ### [Final project](finalproject.md)
 
-Due by the last class (Feb. 28) will be a data-driven story of between 1,000 and 1,350 words. This should include at least two proposals for data visualizations and interviews with multiple sources. The graphics for this story should be integrated into the story's presentation — not separate pieces. Unless otherwise discussed, the "nut graf" of your story should be something you discovered using the data skills covered in this course. 
+Due by the last class (March 6) will be a data-driven story of between 1,000 and 2,000 words. This should include at least two data visualizations and interviews with multiple sources. The graphics for this story should be integrated into the story's presentation — not separate pieces. Unless otherwise discussed, the "nut graf" of your story should be something you discovered using the data skills covered in this course. 
 
 ### Misc.
 
@@ -179,7 +180,6 @@ If you experience any of the above, you have the option of filing a report with 
 In the event of an emergency, American University will implement a plan for meeting the needs of all members of the university community. Should the university be required to close for a period of time, we are committed to ensuring that all aspects of our educational programs will be delivered to our students. These may include altering and extending the duration of the traditional term schedule to complete essential instruction in the traditional format and/or use of distance instructional methods. Specific strategies will vary from class to class, depending on the format of the course and the timing of the emergency. Faculty will communicate class- specific information to students via AU e-mail and Blackboard, while students must inform their faculty immediately of any absence. Students are responsible for checking their AU e-mail regularly and keeping themselves informed of emergencies. In the event of an emergency, students should refer to the AU Student Portal, the AU Web site (www.prepared.american.edu) and the AU information line at (202) 885-1100 for general university-wide information, as well as contact their faculty and/or respective dean’s office for course and school/ college-specific information. 
 
 #### Support Information
-
 
 There is a wide range of university services available to support you in your efforts to meet the course requirements and successfully completing this course, including:
 
