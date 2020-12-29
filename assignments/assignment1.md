@@ -14,19 +14,22 @@ Markdown is a markup language that plays particularly well with github, producin
 
 ## Assignment
 
-### To be submitted before the start of the next class
-
-1. Create a Github account. Add your account name to this [Google sheet](TKTK) so I know where to find your homework.
-1. Create a repository called *AU-data-spring-2021*. You will submit all your homework there.
+1. Create a Github account. 
+1. Create a repository called *AU-data-spring-2021*. You will submit all your homework there. Add your account name to this [Google sheet](https://docs.google.com/forms/d/e/1FAIpQLSf9OIfKYRPcnt07dgIl5BPCWSg8C7xZ4RHErtlENUbyImGssA/viewform) so I know where to find your homework.
 2. Create a new file called assignment1.md
-2. Find two data-driven stories related to what you will do your final project on. It can be a visual, graphic, video or text story. 
-2. Critique the story [following this template](TKTK) in your markdown file. Include a hyperlink (written as 
-`[link text](http://www.linkurl.com)`) to the original story.
-1. Include at least one of the following features in your writeup, to show you know how to use markdown:
+3. Choose a [data-driven investigation from this list](https://docs.google.com/spreadsheets/d/1fBslhcz5EjNt4paGkQfCkYgcL69FaarU00B-OskKVQ8/edit?usp=sharing) and critiqiue it [following this template](../critique_template.md).
+	* Include a hyperlink (written as `[link text](http://www.linkurl.com)`) to the original story.
+1. Write a short pitch, as you would in a note to an editor, for a story idea that could work for the class final project. The pitch should (at least) cover:
+	* What interesting question you want to answer
+	* What data may be available (or how you could collect your own dataset) to help you answer it
+	* Why this story is timely now
+	* What types of people you could talk to for sources
+	* Anything else important to know
+1. Include at least one of the following features in either your critique or story pitch, to show you know how to use markdown:
    * A heading
    * A list or table
 1. Commit this assignment in your AU-data-spring-2021 repository.
 
 ## Reminder
 
-At the beginning of each class, I will call on 1-2 students to share a data story they noticed during the week, so keep your eyes out and come to class prepared with at least one link to a data story.
+At the beginning of each class, I will call on two students to share a data story they noticed during the week, so keep your eyes out and come to class prepared with at least one link to a data story.

@@ -38,7 +38,7 @@ Here are the features I'll be collecting, and an explanation of why:
 
 The first five rows of the data table would look like this:
 
-Date | Time | Affiliation | Political_Affiliation | Reason | Prosecuted | Source
+date | time | affiliation | political_affiliation | reason | prosecuted | source
 ---- | ----- | ---- | -------- | ----------- | -------------- | ----------
 tk | tk | tk | tk | tk | tk | tk
 tk | tk | tk | tk | tk | tk | tk

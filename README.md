@@ -80,7 +80,7 @@ Students are encouraged to discuss assignments. Your final work, however, must b
 **Class 1: Start here!/Story assignments (Jan. 23)**
 
 * Lecture
-	* [Assessment quiz](https://docs.google.com/forms/d/e/1FAIpQLSfRJ8BI0Zvxv2Nf40gQb1mm9vWssaoq-eWERm3IHHEdDBAphA/viewform?usp=sf_link)
+	* [Assessment quiz](https://docs.google.com/forms/d/e/1FAIpQLSdN8j56FcuqKT0G_nCiGOrqiadN6Nqj9iAr9jxVN-m03TiyGA/viewform)
 	* What can data do
 	* Steps to a data story:
 	   * Find data
@@ -92,17 +92,14 @@ Students are encouraged to discuss assignments. Your final work, however, must b
 	* Introduce final project
 * Interactive lesson
 	*  Learn to use github
-* [Assignment 1] - _in class_
-	* Critique a local data story and present to the class
-	* Write one story pitch
+	*  [Submit your github repo](https://docs.google.com/forms/d/e/1FAIpQLSf9OIfKYRPcnt07dgIl5BPCWSg8C7xZ4RHErtlENUbyImGssA/viewform)
+* [Assignment 1](assignments/assignment1.md) - _in class_
 * Present the story you critiqued
 * Compile story pitches
 	* Everyone goes through and explains their pitches
 	* Class votes on pitches
 	* Assign students to pitches
-* [Assignment 2] - _in class_
-	* Compile relevant data
-	* Critique two related data-driven stories
+* [Assignment 2](assignments/assignment2.md) - _in class_
 
 **Class 2: Finding data/Cleaning data (Jan. 30)**
 
