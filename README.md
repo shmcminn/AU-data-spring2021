@@ -30,7 +30,7 @@ Special thank you to [Rachel Shorey](https://github.com/rshorey/digitalframework
    * Late assignments will only be accepted if you contact me **before** the class in which it was originally due and we reach an agreement. 
 * Submit assignments on Github (instructions in first lecture) as specified in the assignment.
 * Consume the news every week, and come to class ready to share at least one story that uses data in a substantial way. I will randomly select two students to share a story at the beginning of class, so please have a link ready to go (and I will do the same). 
-* Complete a final project, which will TKTK
+* Complete [a final project](finalproject.md)
 * I reserve the right to change this syllabus at any time, provided all changes are pushed to GitHub where you can track them in the "commits" section for this repository. If at any time you feel like a change I made isn't fair, you can tell me why and I'll reconsider it.
 * Please make sure you have the following software:  
 	* Microsoft Excel
@@ -64,7 +64,7 @@ Your grade will be made up of three components:
 
 Students are encouraged to discuss assignments. Your final work, however, must be entirely your own. A good rule of thumb is that no one else should take over your keyboard while completing an assignment. All American University policies regarding cheating apply to this class.
 
-### A typical class TKTK
+### A typical class
 
 * 9a - 9:15a share data stories
 * 9:15a - 11a lecture
@@ -99,24 +99,25 @@ Students are encouraged to discuss assignments. Your final work, however, must b
 	* Everyone goes through and explains their pitches
 	* Class votes on pitches
 	* Assign students to pitches
-* [Assignment 2](assignments/assignment2.md) - _in class_
+* [Assignment 2](assignments/assignment2.md) - _start in class, due beginning of next class_
 
 **Class 2: Finding data/Cleaning data (Jan. 30)**
 
 * Share data stories
-*   Lecture
+* Go over assignment 2
+* Lecture
 	* Government data
 	* Other data sources
 	* Data types
 	* Thinking critically about data
-* [Assignment 3](): 
+* [Assignment 3](assignments/assignment3.md): 
 	* Compile own dataset
 * Lecture
 	* Cleaning overview
 * Interactive lesson
 	* Five cleaning activities
 	* Advanced cleaning techniques using Sublime Text and Excel
-* [Assignment 4](): 
+* [Assignment 4](assignments/assignment4.md): 
 	* Clean a messy dataset
 
 **Class 3: Analyzing data/Work on Stories (Feb. 6)**
@@ -125,8 +126,7 @@ Students are encouraged to discuss assignments. Your final work, however, must b
 * Lecture
 	* Analyzing data
 * Interactive lesson
-* [Assignment 5]()
-* [Assignment 6]()
+* [Assignment 5](assignments/assignment5.md)
 	* 3 interesting questions to analyze a dataset
 * Work on final story
 
@@ -136,6 +136,8 @@ Students are encouraged to discuss assignments. Your final work, however, must b
 
 * Lecture
 	* Data viz I (best practices)
+* [Assignment 6](assignments/assignment6.md)
+	* Sketch a conceptual visualization
 * Lecture
 	* data viz II (tools)
 
