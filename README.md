@@ -93,13 +93,13 @@ Students are encouraged to discuss assignments. Your final work, however, must b
 * Interactive lesson
 	*  Learn to use github
 	*  [Submit your github repo](https://docs.google.com/forms/d/e/1FAIpQLSf9OIfKYRPcnt07dgIl5BPCWSg8C7xZ4RHErtlENUbyImGssA/viewform)
-* [Assignment 1](assignments/assignment1.md) - _in class_
+* Assignment 1 - _in class_
 * Present the story you critiqued
 * Compile story pitches
 	* Everyone goes through and explains their pitches
 	* Class votes on pitches
 	* Assign students to pitches
-* [Assignment 2](assignments/assignment2.md) - _start in class, due beginning of next class_
+* Assignment 2 - _start in class, due beginning of next class_
 
 **Class 2: Finding data/Cleaning data (Jan. 30)**
 
@@ -110,14 +110,14 @@ Students are encouraged to discuss assignments. Your final work, however, must b
 	* Other data sources
 	* Data types
 	* Thinking critically about data
-* [Assignment 3](assignments/assignment3.md): 
+* Assignment 3: 
 	* Compile own dataset
 * Lecture
 	* Cleaning overview
 * Interactive lesson
 	* Five cleaning activities
 	* Advanced cleaning techniques using Sublime Text and Excel
-* [Assignment 4](assignments/assignment4.md): 
+* Assignment 4: 
 	* Clean a messy dataset
 
 **Class 3: Analyzing data/Work on Stories (Feb. 6)**
@@ -126,7 +126,7 @@ Students are encouraged to discuss assignments. Your final work, however, must b
 * Lecture
 	* Analyzing data
 * Interactive lesson
-* [Assignment 5](assignments/assignment5.md)
+* Assignment 5
 	* 3 interesting questions to analyze a dataset
 * Work on final story
 
@@ -136,10 +136,12 @@ Students are encouraged to discuss assignments. Your final work, however, must b
 
 * Lecture
 	* Data viz I (best practices)
-* [Assignment 6](assignments/assignment6.md)
+* Assignment 6
 	* Sketch a conceptual visualization
 * Lecture
-	* data viz II (tools)
+	* Data viz II (tools)
+* Assignment
+	* Extra credit data viz
 
 **Class 5: Statistics for journalists/Covering the federal government with data/What the hell is is an API? (Feb. 27)**
 
@@ -149,9 +151,6 @@ Students are encouraged to discuss assignments. Your final work, however, must b
 	* Covering the federal government with data
 * Lecture
 	* What the hell is an API?
-* Assignment
-	* Work on final project OR
-	* Extra credit data viz
 
 **Class 6: Story presentations/Deconstructing a story/Panel discussion (March 6)** 
 
