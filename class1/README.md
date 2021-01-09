@@ -14,10 +14,10 @@
 * Interactive lesson
 	*  Learn to use github
 	*  [Submit your github repo](https://docs.google.com/forms/d/e/1FAIpQLSf9OIfKYRPcnt07dgIl5BPCWSg8C7xZ4RHErtlENUbyImGssA/viewform)
-* [Assignment 1](assignments/assignment1.md) - _in class_
+* [Assignment 1](../assignments/assignment1.md) - _in class_
 * Present the story you critiqued
 * Compile story pitches
 	* Everyone goes through and explains their pitches
 	* Class votes on pitches
 	* Assign students to pitches
-* [Assignment 2](assignments/assignment2.md) - _in class_
+* [Assignment 2](../assignments/assignment2.md) - _in class_
