@@ -3,7 +3,7 @@
 You must complete a final project for this class, either in groups or -- upon request -- individually. The project has two components:
 
 1. A story between 1,000 and 2,000 words based substantially on a dataset, with at least two data visualizations, due by 9 a.m. on March 6.
-2. In the last class (Feb. 29), a fellow student will interview you about the piece.
+2. In the last class (March 6), a fellow student will interview you about the piece.
 
 The story should answer an interesting question using data. The data component of the story must be substantial, and you need to dig into the dataset. If you just read toplines off a website without actually finding and downloading or creating a dataset, that is insufficient.
 
@@ -21,8 +21,8 @@ The final project is worth 30% of your grade. It will break down as follows:
 ### Examples of ideas from final projects in previous terms:
 
 * How do locations of grocery stores differ in urban and rural communities? 
-* How did skatbacks (smaller running backs) perform vs. running backs as a whole?
 * How do African-American reporters wear their hair on TV, and what does that say about the news businiess?
+* How Chinese investment in the US has changed 
 
 ### Examples of professional work that follows this general format
 

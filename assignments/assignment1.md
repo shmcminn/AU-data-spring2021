@@ -1,4 +1,4 @@
-# Github and Markdown
+# Assignment 1: Github and Markdown
 
 ## Why Github?
 

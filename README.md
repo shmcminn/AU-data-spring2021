@@ -19,7 +19,7 @@
 * Speak the language of reporters and technologists who use data to tell stories
 * Identify common problems with data and think critically about its use in news reporting
 
-Special thank you to [Rachel Shorey](https://github.com/rshorey/digitalframeworks-spring18) of The New York Times for contributions to this class and its syllabus.
+Special thank you to [Rachel Shorey](https://github.com/rshorey/digitalframeworks-spring18) of The New York Times for contributions to the class materials and its syllabus.
 
 
 ### Expectations
@@ -37,7 +37,7 @@ Special thank you to [Rachel Shorey](https://github.com/rshorey/digitalframework
 	* Sublime text editor (free)
 	* Tableau Public (free)
 	* We might dabble in some other free software as well, which we can download together. 
-* I will use email as the primary means of communicating with the class, making your use a required element. Please make sure you check your AU email daily.
+* I will use Slack as the primary means of communicating with the class, making your use a required element. Please make sure you check the Slack daily.
 * All lectures/assignments/class materials will be available on Github.
 
 
@@ -54,7 +54,7 @@ Your grade will be made up of three components:
 * A: publishable with minimal edits
 * B: publishable with significant edits
 * C: would need reporter’s revision to be published
-	* You cannot get more than a C on an assignment if there are factual errors.
+	* You cannot get more than a C on an assignment if there are significant factual errors.
 * D: unpublishable, even with edits 
 * F: did not complete work as assigned
 
