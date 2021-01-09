@@ -66,14 +66,14 @@ Students are encouraged to discuss assignments. Your final work, however, must b
 
 ### A typical class
 
-* 9a - 9:15a share data stories
-* 9:15a - 11a lecture
-* 11a - 12p interactive lesson
-* 12p introduce assignment 1
-* 12p - 2p working lunch (assignment, office hours)
-* 2p - 4p lecture
-* 4p introduce assignment 2
-* 4p - 5p free time (assignment, office hours, leave early)
+* Share data stories
+* Lecture
+* Interactive lesson
+* Introduce assignment 1
+* Working lunch (assignment, office hours)
+* Lecture
+* Introduce assignment 2
+* Free time (assignment, office hours, leave early)
 
 ### Schedule
 
@@ -172,20 +172,30 @@ American University expressly prohibits any form of discriminatory harassment in
  
 If you experience any of the above, you have the option of filing a report with the University Police (202-885-2527) or the Office of the Dean of Students (dos@american.edu or 202-885-3300). To file aTitle IX complaint or for more information on your rights, contact the Title IX Program Officer (202-885-3373 orTitleIX@american.edu). Please keep in mind that all faculty and staff who are aware of or witness this conduct are required to report this information to the university, regardless of the location of the incident, with the exception of counselors in the Counseling Center, victim advocates in OASIS, medical providers in the Student Health Center, and ordained clergy in the Kay Spiritual Life Center. For more information, including a list of supportive resources on and off-campus, contact OASIS (oasis@american.edu or 202-885-7070) or check out the comprehensive list of resources to help you find support.
 
+#### Academic Support
 
-#### Emergency preparedness 
+In light of the ongoing pandemic, the traditional academic support available to you has shifted. Please refer to AU’s [COVID-19 resources site](https://www.american.edu/coronavirus/) for more information.
 
-In the event of an emergency, American University will implement a plan for meeting the needs of all members of the university community. Should the university be required to close for a period of time, we are committed to ensuring that all aspects of our educational programs will be delivered to our students. These may include altering and extending the duration of the traditional term schedule to complete essential instruction in the traditional format and/or use of distance instructional methods. Specific strategies will vary from class to class, depending on the format of the course and the timing of the emergency. Faculty will communicate class- specific information to students via AU e-mail and Blackboard, while students must inform their faculty immediately of any absence. Students are responsible for checking their AU e-mail regularly and keeping themselves informed of emergencies. In the event of an emergency, students should refer to the AU Student Portal, the AU Web site (www.prepared.american.edu) and the AU information line at (202) 885-1100 for general university-wide information, as well as contact their faculty and/or respective dean’s office for course and school/ college-specific information. 
+#### Academic Integrity
 
-#### Support Information
+Please don’t even think about cheating on exams or plagiarizing in papers. Plagiarism is to present any information or language that was prepared and written by someone else as if it were your own work. This would include copying and pasting information from the Internet without attributing the source. It would also include passing off another student’s work ask your own.
 
-There is a wide range of university services available to support you in your efforts to meet the course requirements and successfully completing this course, including:
+Standards of academic conduct are set forth in the University’s Academic Integrity Code. By registering, you have acknowledged your awareness of the Academic Integrity Code, and you are obliged to become familiar with your rights and responsibilities as defined by the Code. Violations of the Academic Integrity Code will not be treated lightly, and disciplinary action will be taken should such violations occur.
 
-* Academic Support Center (x3360, MGC 243) offers study skills workshops, individual instruction, tutor referrals, and services for students with learning disabilities. Writing support is available in the ASC Writing Lab or in the Writing Center, Battelle 228.
-* Counseling Center (x3500, MGC 214) offers counseling and consultations regarding personal concerns, self‐help information, and connections to off‐campus mental health resources.
-* Disability Support Services (x3315, MGC 206) offers technical and practical support and assistance with accommodations for students with physical, medical, or psychological disabilities.
+The Academic Integrity Code includes but is not limited to: plagiarism; inappropriate collaboration; dishonesty in exams, papers; work done for one course and submitted for another; deliberate falsification of data; interference with other students’ work; misrepresenting yourself (or having someone misrepresent you) as present during roll call; and copyright violations.
 
-If you qualify for accommodations because of a disability, please notify me in a timely manner with a letter from the Academic Support Center or Disability Support Services so that we can make arrangements to address your needs.
+Please see me if you have any questions about the academic violations described in the Code in general or as they relate to particular requirements for this course.
 
+#### Emergency Preparedness
+
+In the event of an emergency, American University will implement a plan for meeting the needs of all members of the university community.
+
+Should the university be required to close for a period of time, we are committed to ensuring that all aspects of our educational programs will be delivered to our students. These may include altering and extending the duration of the traditional term schedule to complete essential instruction in the traditional format and/or use of distance instructional methods. Specific strategies will vary from class to class, depending on the format of the course and the timing of the emergency.
+
+Faculty will communicate class-specific information to students via AU email and Blackboard, while students must inform their faculty immediately of any absence. Students are responsible for checking their AU email regularly and keeping themselves informed of emergencies.
+
+In the event of an emergency, students should refer to the AU Student Portal and the AU information line at (202) 885- 1100 for general university-wide information, as well as contact their faculty and/or respective dean’s office for the course and school/college-specific information.
+
+Specific to the ongoing pandemic, please continue to monitor AU’s [COVID-19 resources site](https://www.american.edu/coronavirus/), should there be changes.
 
 
