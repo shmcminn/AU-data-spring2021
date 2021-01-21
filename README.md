@@ -27,7 +27,7 @@ Special thank you to [Rachel Shorey](https://github.com/rshorey/digitalframework
 * Come to class or let me know if you can't make it. I understand that situations occur that make it difficult to attend, and I'm willing to help you if you get in touch with me. Either way, you will be responsible for the material unless otherwise agreed upon.
 * Because there are so few classes, you will only receive one excused absence. **A second absence for any reason will result in you losing half of your attendance points (10% pts. off your grade). A third absence for any reason will earn you a zero on attendance, and you will not be able to earn more than a B- in the class.** After one unexcused absence, an Early Warning notice will be filed to the student’s academic advisor. 
 * Complete assignments either in class or as homework due before the next class. That means assignments are due at 9 a.m. on Saturdays, unless otherwise stated.
-   * Late assignments will only be accepted if you contact me **before** the class in which it was originally due and we reach an agreement. 
+   * Late assignments will only be accepted if you contact me and we reach an agreement **before** the class in which it was originally due. 
 * Submit assignments on Github (instructions in first lecture) as specified in the assignment.
 * Consume the news every week, and come to class ready to share at least one story that uses data in a substantial way. I will randomly select two students to share a story at the beginning of class, so please have a link ready to go (and I will do the same). 
 * Complete [a final project](finalproject.md)
@@ -132,7 +132,7 @@ Students are encouraged to discuss assignments. Your final work, however, must b
 
 *__No class on Feb. 13__*
 
-**Class 4: Data viz parts I + II**
+**Class 4: Data viz parts I + II (Feb. 20)**
 
 * Lecture
 	* Data viz I (best practices)
