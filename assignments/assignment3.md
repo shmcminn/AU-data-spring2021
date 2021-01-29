@@ -2,7 +2,7 @@
 
 Some great stories come out of reporters collecting their own datasets. Here are some examples:
 * [Governors with very low approval ratings](https://fivethirtyeight.com/features/chris-christie-is-still-more-popular-than-governors-who-were-literally-criminals/)
-* [Every Trump tweet insulting anything](https://www.nytimes.com/interactive/2016/01/28/upshot/donald-trump-twitter-insults.html)
+* [Every Trump tweet insulting anything](https://www.nytimes.com/interactive/2021/01/19/upshot/trump-complete-insult-list.html)
 * [White House visitors](https://www.politico.com/interactives/databases/trump-white-house-visitor-logs-and-records/index.html)
 * [Emergency room bills](https://erbills.vox.com/)
 
