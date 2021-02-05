@@ -128,6 +128,8 @@ Students are encouraged to discuss assignments. Your final work, however, must b
 * Interactive lesson
 * Assignment 5
 	* 3 interesting questions to analyze a dataset
+* Data viz brainstorm
+	* Do you have the data? What else will you need?
 * Work on final story
 
 *__No class on Feb. 13__*
