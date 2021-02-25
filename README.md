@@ -152,7 +152,8 @@ Students are encouraged to discuss assignments. Your final work, however, must b
 * Lecture
 	* Covering the federal government with data
 * Lecture
-	* What the hell is an API?
+	* [What the hell is an API?](https://prezi.com/hsbuuq7r3z1n/what-the-hell-is-r/)
+* Story feedback 
 
 **Class 6: Story presentations/Deconstructing a story/Panel discussion (March 6)** 
 

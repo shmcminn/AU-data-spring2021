@@ -1,18 +1,10 @@
-# Class 2 (Jan. 30)
+**Class 4: Data viz parts I + II (Feb. 20)**
 
-* Share data stories
-* Go over assignment 2
 * Lecture
-	* Government data
-	* Other data sources
-	* Data types
-	* Thinking critically about data
-* Assignment 3: 
-	* Compile own dataset
+	* Data viz I (best practices)
+* Assignment 6
+	* Sketch a conceptual visualization
 * Lecture
-	* Cleaning overview
-* Interactive lesson
-	* Five cleaning activities
-	* Advanced cleaning techniques using Sublime Text and Excel
-* Assignment 4: 
-	* Clean a messy dataset
+	* Data viz II (tools)
+* Assignment
+	* Extra credit data viz
